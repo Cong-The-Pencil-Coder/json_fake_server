@@ -18,5 +18,14 @@
       "last_name": "Pham",
       "avatar": "https://avatars3.githubusercontent.com/u/24983245?v=4"
     }
+  ],
+  "contact_info": [
+    {
+      "title": "Registration issues",
+      "phone": "403-466-4816",
+      "data": "20-1-2019",
+      "website": "https://github.com/Cong-The-Pencil-Coder",
+      "message": "I have a lot of issues in registration and I dont know how to deal with, can you please help me with?!"
+    }
   ]
 }
