@@ -30,5 +30,14 @@
       "website": "https://github.com/Cong-The-Pencil-Coder",
       "message": "I have a lot of issues in registration and I dont know how to deal with, can you please help me with?!"
     }
+  ],
+  "city_info": [
+    {
+      "Name": "Calgary",
+      "Latitude": "51.0486",
+      "Longitude": "- 114.0708",
+      "Population": "1,096,833",
+      "Area": "825.29 SqKM"
+    }
   ]
 }
